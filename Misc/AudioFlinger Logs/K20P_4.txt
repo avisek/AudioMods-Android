@@ -1,0 +1,1046 @@
+Libraries NOT loaded:
+Libraries loaded:
+ Library audiosphere
+  path: /vendor/lib/soundfx/libasphere.so
+  Qualcomm Technologies Audio Sphere / Qualcomm Technologies, Inc.
+    UUID: 184e62ab-2d19-4364-9d1b-c0a40733866c
+    TYPE: 2f03ade8-d92b-4172-9eea-520cdefa3c1d
+    apiVersion: 00020000
+    flags: 00400200
+ Library dirac
+  path: /vendor/lib/soundfx/libdirac.so
+  DiracSound / Dirac Audio Effect
+    UUID: e069d9e0-8329-11df-9168-0002a5d5c51b
+    TYPE: f46b26a0-dddd-11db-8afd-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 03740208
+ Library audio_pre_processing
+  path: /vendor/lib/soundfx/libqcomvoiceprocessing.so
+  Noise Suppression / Qualcomm Fluence
+    UUID: 1d97bb0b-9e2f-4403-9ae3-58c2554306f8
+    TYPE: 58b4b260-8e06-11e0-aa8e-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00420203
+  Acoustic Echo Canceler / Qualcomm Fluence
+    UUID: 0f8d0d2a-59e5-45fe-b6e4-248c8a799109
+    TYPE: 7b491460-8d4d-11e0-bd61-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00420203
+ Library offload_bundle
+  path: /vendor/lib/soundfx/libqcompostprocbundle.so
+  (no effects)
+ Library proxy
+  path: /vendor/lib/soundfx/libeffectproxy.so
+  Visualizer / The Android Open Source Project
+    UUID: 1d0a1a53-7d5d-48f2-8e71-27fbd10d842c
+    TYPE: e46b26a0-dddd-11db-8afd-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400008
+  Qualcomm Technologies Insert Preset Reverb / Qualcomm Technologies, Inc.
+    UUID: f3e178d2-ebcb-408e-8357-0002a5d5c51b
+    TYPE: 47382d60-ddd8-11db-bf3a-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400088
+  Qualcomm Technologies Auxiliary Preset Reverb / Qualcomm Technologies, Inc.
+    UUID: 1b78f587-6d1c-422e-8b84-0002a5d5c51b
+    TYPE: 47382d60-ddd8-11db-bf3a-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400001
+  Qualcomm Technologies Insert Environmental Reverb / Qualcomm Technologies, Inc.
+    UUID: b707403a-a1c1-4291-9573-0002a5d5c51b
+    TYPE: c2e5d5f0-94bd-4763-9cac-4e234d06839e
+    apiVersion: 00020000
+    flags: 00400088
+  Qualcomm Technologies Auxiliary Environmental Reverb / Qualcomm Technologies, Inc.
+    UUID: 48404ac9-d202-4ccc-bf84-0002a5d5c51b
+    TYPE: c2e5d5f0-94bd-4763-9cac-4e234d06839e
+    apiVersion: 00020000
+    flags: 00400001
+  Equalizer / NXP Software Ltd.
+    UUID: c8e70ecd-48ca-456e-8a4f-0002a5d5c51b
+    TYPE: 0bed4300-ddd6-11db-8f34-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400048
+  Qualcomm Technologies Virtualizer / Qualcomm Technologies, Inc.
+    UUID: d3467faa-acc7-4d34-acaf-0002a5d5c51b
+    TYPE: 37cc2c00-dddd-11db-8577-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400290
+  Qualcomm Technologies Bass Boost / Qualcomm Technologies, Inc.
+    UUID: 14804144-a5ee-4d24-aa88-0002a5d5c51b
+    TYPE: 0634f220-ddd4-11db-a0fc-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00400290
+ Library dynamics_processing
+  path: /vendor/lib/soundfx/libdynproc.so
+  Dynamics Processing / The Android Open Source Project
+    UUID: e0e6539b-1781-7261-676f-6d7573696340
+    TYPE: 7261676f-6d75-7369-6364-28e2fd3ac39e
+    apiVersion: 00020000
+    flags: 00000050
+ Library loudness_enhancer
+  path: /vendor/lib/soundfx/libldnhncr.so
+  Loudness Enhancer / The Android Open Source Project
+    UUID: fa415329-2034-4bea-b5dc-5b381c8d1e2c
+    TYPE: fe3199be-aed0-413f-87bb-11260eb63cf1
+    apiVersion: 00020000
+    flags: 00000008
+ Library downmix
+  path: /vendor/lib/soundfx/libdownmix.so
+  Multichannel Downmix To Stereo / The Android Open Source Project
+    UUID: 93f04452-e4fe-41cc-91f9-e475b6d1d69f
+    TYPE: 381e49cc-a858-4aa2-87f6-e8388e7601b2
+    apiVersion: 00020000
+    flags: 00000008
+ Library visualizer_hw
+  path: /vendor/lib/soundfx/libqcomvisualizer.so
+  (no effects)
+ Library visualizer_sw
+  path: /vendor/lib/soundfx/libvisualizer.so
+  (no effects)
+ Library qcreverb
+  path: /vendor/lib/soundfx/libqcreverb.so
+  (no effects)
+ Library qcvirt
+  path: /vendor/lib/soundfx/libqcvirt.so
+  (no effects)
+ Library qcbassboost
+  path: /vendor/lib/soundfx/libqcbassboost.so
+  (no effects)
+ Library reverb
+  path: /vendor/lib/soundfx/libreverbwrapper.so
+  (no effects)
+ Library bundle
+  path: /vendor/lib/soundfx/libbundlewrapper.so
+  Volume / NXP Software Ltd.
+    UUID: 119341a0-8469-11df-81f9-0002a5d5c51b
+    TYPE: 09e8ede0-ddde-11db-b4f6-0002a5d5c51b
+    apiVersion: 00020000
+    flags: 00000050
+ Library dsplus
+  path: /vendor/lib/soundfx/libdseffect.so
+  Ds / Dolby Laboratories, Inc.
+    UUID: 9d4921da-8225-4f29-aefa-39537a04bcaa
+    TYPE: 46d279d9-9be7-453d-9d7c-ef937f675587
+    apiVersion: 00020000
+    flags: 00040288
+XML effect configuration loaded successfully.
+Clients:
+  pid: 2580
+  pid: 3609
+  pid: 3842
+  pid: 4444
+Notification Clients:
+   pid    uid  name
+   841   1041  audioserver
+  1639   1000  android.uid.system
+  2357  10249  android.uid.systemui
+  2554   1001  android.uid.phone
+  2578   1000  android.uid.system
+  2580   1001  android.uid.phone
+  3039  10211  com.google.android.dialer
+  3609  10278  com.dolby
+  3842   1000  android.uid.system
+  4444  10282  com.spotify.music
+  6533  10290  com.google.android.keep
+  7007  10287  org.telegram.messenger
+Global session refs:
+  session  cnt     pid    uid  name
+       25    1    2580   1001  android.uid.phone
+       33    1    3039  10211  com.google.android.dialer
+       41    1    4444  10282  com.spotify.music
+Hardware status: 0
+Standby Time mSec: 3000
+
+Output thread 0xb400007dfc7b6600, name AudioOut_D, tid 1942, type 0 (MIXER):
+  I/O handle: 13
+  Standby: yes
+  Sample rate: 48000 Hz
+  HAL frame count: 240
+  HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+  HAL buffer size: 960 bytes
+  Channel count: 2
+  Channel mask: 0x00000003 (front-left, front-right)
+  Processing format: 0x5 (AUDIO_FORMAT_PCM_FLOAT)
+  Processing frame size: 8 bytes
+  Pending config events: none
+  Output devices: 0x2 (AUDIO_DEVICE_OUT_SPEAKER)
+  Input device: 0 (AUDIO_DEVICE_NONE)
+  Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+  Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=1 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  Timestamp corrected: no
+  Master volume: 1.000000
+  Master mute: off
+  Mixer channel Mask: 0x3 (front-left, front-right)
+  Normal frame count: 960
+  Total writes: 0
+  Delayed writes: 0
+  Blocked in write: no
+  Suspend count: 0
+  Sink buffer : 0xb400007dfc750000
+  Mixer buffer: 0xb400007dfc74c000
+  Effect buffer: 0xb400007dfc74e000
+  Fast track availMask=0xfc
+  Standby delay ns=3000000000
+  AudioStreamOut: 0xb400007dfc6d8e00 flags 0x6 (AUDIO_OUTPUT_FLAG_PRIMARY|AUDIO_OUTPUT_FLAG_FAST)
+  Frames written: 0
+  Suspended frames: 0
+  PipeSink frames written: 0
+  Hal stream dump:
+      Standby: yes
+      Frames written: 0
+      Fifo frame underruns: none
+      Errors: 0
+      Signal power history: (none)
+  Thread throttle time (msecs): 0
+  AudioMixer tracks: 
+  Master mono: off
+  Master balance: 0.000000 (0.000000)
+  FastMixer thread 0xb400007dfc807200 tid=1941  FastMixer command=COLD_IDLE writeSequence=0 framesWritten=0
+            numTracks=0 writeErrors=0 underruns=0 overruns=0
+            sampleRate=0 frameCount=0 measuredWarmup=0 ms, warmupCycles=0
+            mixPeriod=nan ms latency=0.00 ms
+  FastMixer Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  No FastMixer statistics available currently
+  Fast tracks: sMaxFastTracks=8 activeMask=0
+  Index Active Full Partial Empty  Recent Ready    Written
+      0     no    0       0     0    full     0          0
+      1     no    0       0     0    full     0          0
+      2     no    0       0     0    full     0          0
+      3     no    0       0     0    full     0          0
+      4     no    0       0     0    full     0          0
+      5     no    0       0     0    full     0          0
+      6     no    0       0     0    full     0          0
+      7     no    0       0     0    full     0          0
+  Stream volumes in dB: 0:nan, 1:nan, 2:nan, 3:nan, 4:nan, 5:nan, 6:-inf, 7:nan, 8:nan, 9:0, 10:nan, 11:nan, 12:0, 13:0, 14:0
+  Normal mixer raw underrun counters: partial=0 empty=0
+  1 Tracks of which 0 are active
+    Type     Id Active Client Session Port Id S  Flags   Format Chn mask  SRate ST Usg CT  G db  L dB  R dB  VS dB   Server FrmCnt  FrmRdy F Underruns  Flushed   Latency
+    F1       55     no   2580      25      32 I  0x000 00000001 00000001  48000  8   3  0  -inf   -10   -10     0  00000000    960       0 I         0        0       new
+  0 Effect Chains
+  Local log:
+   09-06 21:34:50.023 CFG_EVENT_CREATE_AUDIO_PATCH: old device  (Empty device types) new device 0x2 (AUDIO_DEVICE_OUT_SPEAKER)
+
+Output thread 0xb400007d63b8c740, name AudioOut_15, tid 1952, type 0 (MIXER):
+  I/O handle: 21
+  Standby: yes
+  Sample rate: 48000 Hz
+  HAL frame count: 192
+  HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+  HAL buffer size: 768 bytes
+  Channel count: 2
+  Channel mask: 0x00000003 (front-left, front-right)
+  Processing format: 0x5 (AUDIO_FORMAT_PCM_FLOAT)
+  Processing frame size: 8 bytes
+  Pending config events: none
+  Output devices: 0x2 (AUDIO_DEVICE_OUT_SPEAKER)
+  Input device: 0 (AUDIO_DEVICE_NONE)
+  Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+  Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=1 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  Timestamp corrected: no
+  Master volume: 1.000000
+  Master mute: off
+  Mixer channel Mask: 0x3 (front-left, front-right)
+  Normal frame count: 960
+  Total writes: 0
+  Delayed writes: 0
+  Blocked in write: no
+  Suspend count: 0
+  Sink buffer : 0xb400007dfc757000
+  Mixer buffer: 0xb400007dfc753000
+  Effect buffer: 0xb400007dfc755000
+  Fast track availMask=0xfe
+  Standby delay ns=3000000000
+  AudioStreamOut: 0xb400007dfc6d7f00 flags 0x104 (AUDIO_OUTPUT_FLAG_FAST|AUDIO_OUTPUT_FLAG_RAW)
+  Frames written: 0
+  Suspended frames: 0
+  PipeSink frames written: 0
+  Hal stream dump:
+      Standby: yes
+      Frames written: 0
+      Fifo frame underruns: none
+      Errors: 0
+      Signal power history: (none)
+  Thread throttle time (msecs): 0
+  AudioMixer tracks: 
+  Master mono: off
+  Master balance: 0.000000 (0.000000)
+  FastMixer thread 0xb400007d63bdd480 tid=1951  FastMixer command=COLD_IDLE writeSequence=0 framesWritten=0
+            numTracks=0 writeErrors=0 underruns=0 overruns=0
+            sampleRate=0 frameCount=0 measuredWarmup=0 ms, warmupCycles=0
+            mixPeriod=nan ms latency=0.00 ms
+  FastMixer Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  No FastMixer statistics available currently
+  Fast tracks: sMaxFastTracks=8 activeMask=0
+  Index Active Full Partial Empty  Recent Ready    Written
+      0     no    0       0     0    full     0          0
+      1     no    0       0     0    full     0          0
+      2     no    0       0     0    full     0          0
+      3     no    0       0     0    full     0          0
+      4     no    0       0     0    full     0          0
+      5     no    0       0     0    full     0          0
+      6     no    0       0     0    full     0          0
+      7     no    0       0     0    full     0          0
+  Stream volumes in dB: 0:nan, 1:nan, 2:nan, 3:nan, 4:nan, 5:nan, 6:-inf, 7:nan, 8:nan, 9:0, 10:nan, 11:nan, 12:0, 13:0, 14:0
+  Normal mixer raw underrun counters: partial=0 empty=0
+  0 Tracks
+  0 Effect Chains
+  Local log:
+   09-06 21:34:50.053 CFG_EVENT_CREATE_AUDIO_PATCH: old device  (Empty device types) new device 0x2 (AUDIO_DEVICE_OUT_SPEAKER)
+
+Output thread 0xb400007d63c2ed80, name AudioOut_1D, tid 1957, type 0 (MIXER):
+  I/O handle: 29
+  Standby: no
+  Sample rate: 48000 Hz
+  HAL frame count: 1920
+  HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+  HAL buffer size: 7680 bytes
+  Channel count: 2
+  Channel mask: 0x00000003 (front-left, front-right)
+  Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+  Processing frame size: 4 bytes
+  Pending config events: none
+  Output devices: 0x4 (AUDIO_DEVICE_OUT_WIRED_HEADSET)
+  Input device: 0 (AUDIO_DEVICE_NONE)
+  Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+  Timestamp stats: n=1273 disc=9 cold=0 nRdy=0 err=2 rate=1 jitterMs(ave=-6.26055e-05 std=0.220406 min=-1.44531 max=1.40756) localSR(47999.6, 4.77718e-09) correctedJitterMs(ave=0.000297476 std=0.0101053 min=-0.0217153 max=0.0587543)
+  Timestamp corrected: no
+  Last write occurred (msecs): 45
+  Process time ms stats: ave=5.07354 std=1.31453 min=1.27208 max=9.21828
+  Hal write jitter ms stats: ave=-0.00245872 std=0.705244 min=-5.89479 max=4.89631
+  Threadloop write latency stats: ave=143.403 std=1.7013 min=137.239 max=147.559
+  Master volume: 1.000000
+  Master mute: off
+  Mixer channel Mask: 0x3 (front-left, front-right)
+  Normal frame count: 1920
+  Total writes: 1275
+  Delayed writes: 0
+  Blocked in write: yes
+  Suspend count: 0
+  Sink buffer : 0xb400007dfc759000
+  Mixer buffer: 0xb400007dfc8a0bc0
+  Effect buffer: 0xb400007dfc8a5a00
+  Fast track availMask=0xfe
+  Standby delay ns=3000000000
+  AudioStreamOut: 0xb400007dfc6d91c0 flags 0x8 (AUDIO_OUTPUT_FLAG_DEEP_BUFFER)
+  Frames written: 2448000
+  Suspended frames: 0
+  Hal stream dump:
+      Standby: no
+      Frames written: 2448000
+      Fifo frame underruns: none
+      Start latency ms: (mean: 112.067823  min: 112.067823  max: 112.067823  last: 112.067823  n: 1)
+      Errors: 0
+      Signal power history:
+       09-06 21:35:52.574:    -32.7  -31.7  -30.3  -31.6  -31.9  -32.0  -32.0  -32.2  -32.7  -32.5
+       09-06 21:35:53.094:    -33.3  -32.7  -32.0  -32.1  -31.9  -32.1  -31.3  -32.0  -32.1  -30.8
+       09-06 21:35:53.574:    -30.6  -31.2  -32.3  -32.2  -32.8  -33.4  -32.5  -33.8  -33.9  -33.8
+       09-06 21:35:54.094:    -34.7  -33.3  -33.1  -33.9  -30.9  -31.8  -32.9  -32.9  -33.6  -34.0
+       09-06 21:35:54.574:    -34.4  -35.2  -32.7  -31.7  -31.5  -31.9  -32.7  -34.2  -34.9  -33.4
+       09-06 21:35:55.094:    -35.7  -36.2  -36.6  -36.5  -36.5  -36.6  -37.1  -37.1  -36.3  -32.7
+       09-06 21:35:55.574:    -32.2  -31.7  -33.0  -34.7  -35.6  -36.0  -35.7  -32.3  -32.1  -32.7
+       09-06 21:35:56.094:    -33.9  -33.6  -32.9  -34.0  -35.0  -35.0  -35.0  -35.4  -34.3  -35.1
+       09-06 21:35:56.574:    -34.3  -35.5  -36.3  -35.2  -33.3  -31.6  -30.9  -31.9  -32.0  -32.5
+       09-06 21:35:57.094:    -32.3  -33.2  -34.0  -33.0  -32.2  -32.5  -32.3  -31.4  -31.3  -32.1
+       09-06 21:35:57.574:    -31.6  -31.0  -31.3  -31.6  -31.8  -33.2  -32.9  -32.6  -32.0  -32.1
+       09-06 21:35:58.094:    -31.0  -31.0  -31.9  -32.4  -33.2  -34.2  -34.6  -34.3  -34.3  -35.2
+       09-06 21:35:58.574:    -34.5  -33.8  -32.5  -31.8  -32.5  -32.5  -32.3  -32.3  -33.4  -35.3
+       09-06 21:35:59.094:    -35.9  -37.0  -37.0  -31.9  -32.9  -33.2  -33.7  -35.0  -34.8  -35.1
+       09-06 21:35:59.574:    -35.5  -36.6  -34.1  -34.0  -32.8  -33.9  -33.8  -33.3  -35.1  -36.8
+       09-06 21:36:00.094:    -32.6  -32.5  -31.7  -31.7  -33.7  -34.4  -34.7  -34.5  -35.3  -35.2
+       09-06 21:36:00.574:    -34.5  -33.6  -34.4  -34.5  -34.1  -34.1  -32.2  -31.3  -32.5  -33.6
+       09-06 21:36:01.095:    -34.3  -35.0  -35.7  -36.8  -35.4  -33.3  -33.1  -32.0  -33.4  -34.6
+       09-06 21:36:01.574:    -35.4  -36.0  -36.0  -36.7  -36.8  -36.9  -38.2  -38.0  -38.4  -39.0
+       09-06 21:36:02.094:    -38.6  -35.5  -33.1  -32.5  -32.9  -34.1  -35.4  -36.4  -37.2  -34.0
+       09-06 21:36:02.574:    -31.8  -32.7  -33.6  -34.1  -34.0  -34.3  -33.9  -34.9  -34.9  -33.8
+       09-06 21:36:03.094:    -33.6  -34.3  -34.2  -33.5  -32.9  -33.9  -33.5  -31.2  -30.3  -30.7
+       09-06 21:36:03.575:    -31.3  -31.7  -32.0  -31.6  -31.7  -32.6  -34.7  -34.0  -33.4  -32.5
+       09-06 21:36:04.094:    -31.1  -31.9  -32.0  -31.5  -32.4  -32.9  -34.1  -33.9  -33.3  -32.4
+       09-06 21:36:04.574:    -32.5  -32.6  -31.5  -30.9  -31.2  -32.1  -33.4  -34.2  -33.8  -34.6
+       09-06 21:36:05.095:    -34.8  -34.4  -34.5  -33.1  -32.3  -31.0  -31.5  -31.7  -32.1  -31.0
+       09-06 21:36:05.575:    -31.3  -32.3  -30.9  -31.1  -31.9  -30.9  -30.4  -29.9  -30.3  -30.8
+       09-06 21:36:06.096:    -31.3  -31.4  -31.4  -31.3  -33.0  -31.6  -31.7  -33.0  -32.2  -32.1
+       09-06 21:36:06.574:    -32.2  -31.6  -30.2  -30.9  -30.3  -31.1  -31.2  -32.0  -33.2  -32.3
+       09-06 21:36:07.094:    -31.5  -31.4  -32.1  -32.4  -32.5  -33.1  -32.8  -32.6  -32.5  -30.9
+       09-06 21:36:07.575:    -31.4  -32.9  -33.4  -33.2  -34.3  -33.3  -34.0  -31.7  -31.8  -31.5
+       09-06 21:36:08.095:    -32.0  -30.8  -30.6  -30.9  -31.3  -31.6  -31.5  -31.8  -32.3  -31.7
+       09-06 21:36:08.576:    -32.4  -32.6  -32.6  -31.5  -30.4  -31.0  -31.0  -31.9  -32.2  -33.5
+       09-06 21:36:09.097:    -33.2  -34.2  -32.1  -31.7  -33.2  -33.8  -33.7  -35.0  -35.2  -36.0
+       09-06 21:36:09.575:    -33.4  -32.8  -36.0  -36.5  -35.5  -35.8  -35.1  -35.2  -32.3  -30.7
+       09-06 21:36:10.095:    -31.4  -31.5  -32.3  -31.8  -33.0  -33.1  -32.5  -31.4  -31.0  -31.5
+       09-06 21:36:10.574:    -31.6  -31.2  -30.9  -32.1  -32.2  -30.7  -29.5  -30.5  -32.0  -32.1
+       09-06 21:36:11.096:    -32.8  -33.4  -33.9  -31.8  -31.7  -31.3  -31.5  -31.1  -31.0  -31.6
+       09-06 21:36:11.576:    -31.9  -31.9  -31.4  -31.6  -32.8  -32.4  -33.5  -34.1  -33.6  -33.3
+
+    -28.2 -|
+    -29.2 -|                                                                                                                                                                                *
+    -30.2 -|                            **                                              ***             * *                           *           *                                          *
+    -31.2 -|                           *  ** *      *  *        ***          **  ** ** *   ***** **    * * **   **       **      * * * ****      * **      *               ***     ******  *        ******  **
+    -32.2 -|   *      *                     * **   * ** *    ***   *        *  **  *  *             ***      * *  ***  **         * *      ******    **   *               *   **  *      **   **   *      **   *
+    -33.2 -|  * *      **       *  ** *           *      *  *       *      *                    *  *          *      **    *** *                       **   *     **            **              **            * * *
+    -34.2 -|     *   *   ****  * **  *           *        **         *** **                                                   * *                        *   **                                   *              *
+    -35.2 -| *    *          **                 *                       *                                                                                      **     * **
+    -36.2 -|       *                                                                                                                                             *  ** *
+    -37.2 -|        *
+    -38.2 -|*
+    -39.2 -|
+    -40.2 -|
+    -41.2 -|
+           |________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+  Thread throttle time (msecs): 12
+  AudioMixer tracks: 60 
+  Master mono: off
+  Master balance: 0.000000 (balance 0 channelCount 2 volumes: 1 1)
+  No FastMixer
+  Stream volumes in dB: 0:-42, 1:-27, 2:-20, 3:-17, 4:-17, 5:-27, 6:-inf, 7:-27, 8:-21, 9:0, 10:-19, 11:-17, 12:0, 13:0, 14:0
+  Normal mixer raw underrun counters: partial=0 empty=0
+  1 Tracks of which 1 are active
+    Type     Id Active Client Session Port Id S  Flags   Format Chn mask  SRate ST Usg CT  G db  L dB  R dB  VS dB   Server FrmCnt  FrmRdy F Underruns  Flushed   Latency
+             60    yes   4444      41      37 A  0x000 00000001 00000003  44100  3   1  2   -17     0     0     0  0016A304  44100   24696 A         0        0  702.06 t
+  1 Effect Chains
+    2 effects for session 0
+	In buffer                         Out buffer                           Active tracks:
+	0xb400007dfc8a5a00 -> 0x7dfcaad000   0x7dfcaad000 -> 0xb400007dfc8a5a00   0
+	Effect ID 11:
+		Session State Registered Enabled Suspended:
+		00000   003   y          y       n
+		Descriptor:
+		- UUID: e069d9e0-8329-11df-9168-0002a5d5c51b
+		- TYPE: f46b26a0-dddd-11db-8afd-0002a5d5c51b
+		- apiVersion: 00000000
+		- flags: 03740208 (conn. mode: insert, insert pref: first, volume mgmt: none, device indication: requires updates, input mode: not set, output mode: not set, mode indication: required, source indication: unknown/reserved, offloadable)
+		- name: DiracSound
+		- implementor: Dirac Audio Effect
+		1 Clients:
+			  Pid Priority Ctrl Locked client server
+			 3842        0  yes    yes      0      0
+		Status Engine:
+		000    0xb400007dfc6da250
+		- data: int16
+		- Input configuration:
+			Buffer     Frames  Smp rate Channels Format
+			0x7dfcaad000 01920   48000    00000003      1 (AUDIO_FORMAT_PCM_16_BIT)
+		- Output configuration:
+			Buffer     Frames  Smp rate Channels Format
+			0x7dfcaad000 01920   48000    00000003      1 (AUDIO_FORMAT_PCM_16_BIT)
+		- HAL buffers:
+			In(0xb400007dfc8a5a00 -> 0x7dfcaad000) InConversion(0x7dfc958000) Out(0x7dfcaad000 -> 0xb400007dfc8a5a00) OutConversion(0x7dfcab7000)
+	Effect ID 11 HAL dump:
+	Effect ID 19:
+		Session State Registered Enabled Suspended:
+		00000   003   y          y       n
+		Descriptor:
+		- UUID: 9d4921da-8225-4f29-aefa-39537a04bcaa
+		- TYPE: 46d279d9-9be7-453d-9d7c-ef937f675587
+		- apiVersion: 00000000
+		- flags: 00040288 (conn. mode: insert, insert pref: first, volume mgmt: requires indication, device indication: requires updates, input mode: not set, output mode: not set, mode indication: required)
+		- name: Ds
+		- implementor: Dolby Laboratories, Inc.
+		1 Clients:
+			  Pid Priority Ctrl Locked client server
+			 3609        0  yes    yes      0      0
+		Status Engine:
+		000    0xb400007d6aa61410
+		- data: int16
+		- Input configuration:
+			Buffer     Frames  Smp rate Channels Format
+			0x7dfcaad000 01920   48000    00000003      1 (AUDIO_FORMAT_PCM_16_BIT)
+		- Output configuration:
+			Buffer     Frames  Smp rate Channels Format
+			0x7dfcaad000 01920   48000    00000003      1 (AUDIO_FORMAT_PCM_16_BIT)
+		- HAL buffers:
+			In(0xb400007dfc8a5a00 -> 0x7dfcaad000) InConversion(0x7dfc657000) Out(0x7dfcaad000 -> 0xb400007dfc8a5a00) OutConversion(0x7dfcab3000)
+	Effect ID 19 HAL dump:
+  Local log:
+   09-06 21:34:50.102 CFG_EVENT_CREATE_AUDIO_PATCH: old device  (Empty device types) new device 0x2 (AUDIO_DEVICE_OUT_SPEAKER)
+   09-06 21:35:21.014 CFG_EVENT_CREATE_AUDIO_PATCH: old device 0x2 (AUDIO_DEVICE_OUT_SPEAKER) new device 0x4 (AUDIO_DEVICE_OUT_WIRED_HEADSET)
+   09-06 21:35:21.017 AT::add       (0xb400007dfc73b400)          56     no   4444      41      33 A  0x000 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000000  44100   44100 f         0        0       new
+   09-06 21:35:21.254 AT::remove    (0xb400007dfc73b400)          56     no   4444      41      33 P  0x400 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000DC8  44100   44100 A         0        0 1112.61 k
+   09-06 21:35:21.651 removeTrack_l (0xb400007dfc73b400)          56     no   4444      41      33 T  0x600 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000DC8  44100       0 f         0    44100  112.61 k
+   09-06 21:35:22.187 CFG_EVENT_CREATE_AUDIO_PATCH: old device 0x4 (AUDIO_DEVICE_OUT_WIRED_HEADSET) new device 0x4 (AUDIO_DEVICE_OUT_WIRED_HEADSET)
+   09-06 21:35:22.188 AT::add       (0xb400007dfc73b900)          57     no   4444      41      34 A  0x000 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000000  44100   44100 f         0        0       new
+   09-06 21:35:34.592 AT::add       (0xb400007dfc73a000)          58     no   4444      41      35 A  0x000 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000000  44100    1024 f         0        0       new
+   09-06 21:35:34.734 AT::remove    (0xb400007dfc73b900)          57     no   4444      41      34 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0007D225  44100       0 f     37257    21979  144.20 k
+   09-06 21:35:34.735 removeTrack_l (0xb400007dfc73b900)          57     no   4444      41      34 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0007D225  44100       0 f     37257    21979  144.20 k
+   09-06 21:35:35.700 AT::add       (0xb400007dfc73e600)          59     no   4444      41      36 A  0x000 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000000  44100    1024 f         0        0       new
+   09-06 21:35:35.854 AT::remove    (0xb400007dfc73a000)          58     no   4444      41      35 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0000B328  44100       0 f         0    22744  145.48 k
+   09-06 21:35:35.855 removeTrack_l (0xb400007dfc73a000)          58     no   4444      41      35 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0000B328  44100       0 f         0    22744  145.48 k
+   09-06 21:35:38.465 AT::add       (0xb400007d6aa9ca00)          60     no   4444      41      37 A  0x000 00000001 00000003  44100  3   1  2  -inf     0     0     0  00000000  44100   44100 f         0        0       new
+   09-06 21:35:38.494 AT::remove    (0xb400007dfc73e600)          59     no   4444      41      36 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0001C6C8  44100       0 f         0    21816  133.86 k
+   09-06 21:35:38.495 removeTrack_l (0xb400007dfc73e600)          59     no   4444      41      36 T  0x600 00000001 00000003  44100  3   1  2   -17     0     0     0  0001C6C8  44100       0 f         0    21816  133.86 k
+
+Output thread 0xb400007d63cac740, name AudioOut_35, tid 1976, type 0 (MIXER):
+  I/O handle: 53
+  Standby: yes
+  Sample rate: 48000 Hz
+  HAL frame count: 768
+  HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+  HAL buffer size: 3072 bytes
+  Channel count: 2
+  Channel mask: 0x00000003 (front-left, front-right)
+  Processing format: 0x5 (AUDIO_FORMAT_PCM_FLOAT)
+  Processing frame size: 8 bytes
+  Pending config events: none
+  Output devices: 0x10000 (AUDIO_DEVICE_OUT_TELEPHONY_TX)
+  Input device: 0 (AUDIO_DEVICE_NONE)
+  Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+  Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=1 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  Timestamp corrected: no
+  Master volume: 1.000000
+  Master mute: off
+  Mixer channel Mask: 0x3 (front-left, front-right)
+  Normal frame count: 1152
+  Total writes: 0
+  Delayed writes: 0
+  Blocked in write: no
+  Suspend count: 0
+  Sink buffer : 0xb400007d63d0c000
+  Mixer buffer: 0xb400007d63d07000
+  Effect buffer: 0xb400007d63d09800
+  Fast track availMask=0xfe
+  Standby delay ns=3000000000
+  AudioStreamOut: 0xb400007dfc6d98a0 flags 0 (AUDIO_OUTPUT_FLAG_NONE)
+  Frames written: 0
+  Suspended frames: 0
+  PipeSink frames written: 0
+  Hal stream dump:
+      Standby: yes
+      Frames written: 0
+      Fifo frame underruns: none
+      Errors: 0
+      Signal power history: (none)
+  Thread throttle time (msecs): 0
+  AudioMixer tracks: 
+  Master mono: off
+  Master balance: 0.000000 (0.000000)
+  FastMixer thread 0xb400007d63d22700 tid=1975  FastMixer command=COLD_IDLE writeSequence=0 framesWritten=0
+            numTracks=0 writeErrors=0 underruns=0 overruns=0
+            sampleRate=0 frameCount=0 measuredWarmup=0 ms, warmupCycles=0
+            mixPeriod=nan ms latency=0.00 ms
+  FastMixer Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+  No FastMixer statistics available currently
+  Fast tracks: sMaxFastTracks=8 activeMask=0
+  Index Active Full Partial Empty  Recent Ready    Written
+      0     no    0       0     0    full     0          0
+      1     no    0       0     0    full     0          0
+      2     no    0       0     0    full     0          0
+      3     no    0       0     0    full     0          0
+      4     no    0       0     0    full     0          0
+      5     no    0       0     0    full     0          0
+      6     no    0       0     0    full     0          0
+      7     no    0       0     0    full     0          0
+  Stream volumes in dB: 0:0, 1:0, 2:0, 3:0, 4:0, 5:0, 6:-inf, 7:0, 8:0, 9:0, 10:0, 11:0, 12:0, 13:0, 14:0
+  Normal mixer raw underrun counters: partial=0 empty=0
+  0 Tracks
+  0 Effect Chains
+  Local log:
+   09-06 21:34:50.173 CFG_EVENT_CREATE_AUDIO_PATCH: old device  (Empty device types) new device 0x10000 (AUDIO_DEVICE_OUT_TELEPHONY_TX)
+
+USB audio module:
+  No output streams.
+
+  No input streams.
+
+Reroute submix audio module:
+ route[0] rate in=0 out=0, addr=[]
+ route[1] rate in=0 out=0, addr=[]
+ route[2] rate in=0 out=0, addr=[]
+ route[3] rate in=0 out=0, addr=[]
+ route[4] rate in=0 out=0, addr=[]
+ route[5] rate in=0 out=0, addr=[]
+ route[6] rate in=0 out=0, addr=[]
+ route[7] rate in=0 out=0, addr=[]
+ route[8] rate in=0 out=0, addr=[]
+ route[9] rate in=48000 out=48000, addr=[]
+
+Patches:
+  Patch 12: No software bridge (thread 0x0 => thread 0x0) thread 0xb400007dfc7b6600 num sinks (1) first device type 00000002
+  Patch 20: No software bridge (thread 0x0 => thread 0x0) thread 0xb400007d63b8c740 num sinks (1) first device type 00000002
+  Patch 36: No software bridge (thread 0x0 => thread 0x0) thread 0xb400007d63cac740 num sinks (1) first device type 00010000
+  Patch 52: No software bridge (thread 0x0 => thread 0x0) thread 0xb400007d63c2ed80 num sinks (1) first device type 00000004
+
+Device Effects:
+
+Rejected setParameters:
+
+App setParameters:
+
+System setParameters:
+    09-06 21:35:01.748 UID  1000, 1 KVP received: A2dpSuspended=false
+    09-06 21:35:01.749 UID  1000, 1 KVP received: BT_SCO=off
+    09-06 21:35:04.752 UID  1000, 1 KVP received: A2dpSuspended=false
+    09-06 21:35:04.752 UID  1000, 1 KVP received: BT_SCO=off
+    09-06 21:35:09.693 UID  1001, 2 KVP received: vsid=297816064;call_state=1
+    09-06 21:35:09.694 UID  1001, 2 KVP received: vsid=299651072;call_state=1
+    09-06 21:35:09.696 UID  1001, 2 KVP received: vsid=297816064;call_state=1
+    09-06 21:35:09.697 UID  1001, 2 KVP received: vsid=299651072;call_state=1
+    09-06 21:35:09.698 UID  1001, 2 KVP received: vsid=297816064;call_state=1
+    09-06 21:35:09.699 UID  1001, 2 KVP received: vsid=299651072;call_state=1
+Historical Thread Log 09-06 21:34:50.106 - 
+- Output thread 0xb400007d63c8c3c0, name AudioOut_25, tid 1968, type 1 (DIRECT):
+-   I/O handle: 37
+-   Standby: yes
+-   Sample rate: 8000 Hz
+-   HAL frame count: 640
+-   HAL format: 0x6 (AUDIO_FORMAT_PCM_24_BIT_PACKED)
+-   HAL buffer size: 1920 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000001 (front-left)
+-   Processing format: 0x6 (AUDIO_FORMAT_PCM_24_BIT_PACKED)
+-   Processing frame size: 3 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=1 disc=1 cold=0 nRdy=0 err=0 rate=nan jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   Threadloop write latency stats: ave=-0.035833 min=-0.035833 max=-0.035833
+-   Master volume: 1.000000
+-   Master mute: off
+-   Mixer channel Mask: 0x1 (front-left)
+-   Normal frame count: 640
+-   Total writes: 0
+-   Delayed writes: 0
+-   Blocked in write: no
+-   Suspend count: 0
+-   Sink buffer : 0xb400007dfc8b1000
+-   Mixer buffer: 0xb400007dfc704200
+-   Effect buffer: 0xb400007dfc704c00
+-   Fast track availMask=0xfe
+-   Standby delay ns=160000000
+-   AudioStreamOut: 0xb400007dfc6d98a0 flags 0x1 (AUDIO_OUTPUT_FLAG_DIRECT)
+-   Frames written: 0
+-   Suspended frames: 0
+-   Hal stream dump:
+-       Standby: yes
+-       Frames written: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Master balance: 0.000000  Left: 1.000000  Right: 1.000000
+-   Stream volumes in dB: 0:-inf, 1:-inf, 2:-inf, 3:-inf, 4:-inf, 5:-inf, 6:-inf, 7:-inf, 8:-inf, 9:-inf, 10:-inf, 11:-inf, 12:-inf, 13:0, 14:0
+-   Normal mixer raw underrun counters: partial=0 empty=0
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.113 - 
+- Output thread 0xb400007d63c8c3c0, name AudioOut_2D, tid 1973, type 4 (OFFLOAD):
+-   I/O handle: 45
+-   Standby: yes
+-   Sample rate: 8000 Hz
+-   HAL frame count: 2048
+-   HAL format: 0x1000000 (AUDIO_FORMAT_MP3)
+-   HAL buffer size: 2048 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000001 (front-left)
+-   Processing format: 0x1000000 (AUDIO_FORMAT_MP3)
+-   Processing frame size: 1 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=1 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   Master volume: 1.000000
+-   Master mute: off
+-   Mixer channel Mask: 0x1 (front-left)
+-   Normal frame count: 2048
+-   Total writes: 0
+-   Delayed writes: 0
+-   Blocked in write: no
+-   Suspend count: 0
+-   Sink buffer : 0xb400007dfc8b1000
+-   Mixer buffer: 0xb400007dfc765000
+-   Effect buffer: 0xb400007dfc767000
+-   Fast track availMask=0xfe
+-   Standby delay ns=1000000000
+-   AudioStreamOut: 0xb400007dfc6d9940 flags 0x31 (AUDIO_OUTPUT_FLAG_DIRECT|AUDIO_OUTPUT_FLAG_COMPRESS_OFFLOAD|AUDIO_OUTPUT_FLAG_NON_BLOCKING)
+-   Frames written: 0
+-   Suspended frames: 0
+-   Hal stream dump:
+-       Standby: yes
+-       Frames written: 0
+-       Errors: 0
+-   Master balance: 0.000000  Left: 1.000000  Right: 1.000000
+-   Stream volumes in dB: 0:-inf, 1:-inf, 2:-inf, 3:-inf, 4:-inf, 5:-inf, 6:-inf, 7:-inf, 8:-inf, 9:-inf, 10:-inf, 11:-inf, 12:-inf, 13:0, 14:0
+-   Normal mixer raw underrun counters: partial=0 empty=0
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.177 - 
+- Output thread 0xb400007d63d92b80, name AudioOut_3D, tid 1989, type 1 (DIRECT):
+-   I/O handle: 61
+-   Standby: yes
+-   Sample rate: 8000 Hz
+-   HAL frame count: 160
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 320 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000001 (front-left)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 2 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=1 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   Master volume: 1.000000
+-   Master mute: off
+-   Mixer channel Mask: 0x1 (front-left)
+-   Normal frame count: 160
+-   Total writes: 0
+-   Delayed writes: 0
+-   Blocked in write: no
+-   Suspend count: 0
+-   Sink buffer : 0xb400007dfc6e5c40
+-   Mixer buffer: 0xb400007dfc6fa400
+-   Effect buffer: 0xb400007dfc6f9780
+-   Fast track availMask=0xfe
+-   Standby delay ns=40000000
+-   AudioStreamOut: 0xb400007dfc6da0c0 flags 0x8001 (AUDIO_OUTPUT_FLAG_DIRECT|AUDIO_OUTPUT_FLAG_VOIP_RX)
+-   Frames written: 0
+-   Suspended frames: 0
+-   Hal stream dump:
+-       Standby: yes
+-       Frames written: 0
+-       Fifo frame underruns: none
+-       Errors: 0
+-       Signal power history: (none)
+-   Master balance: 0.000000  Left: 1.000000  Right: 1.000000
+-   Stream volumes in dB: 0:-inf, 1:-inf, 2:-inf, 3:-inf, 4:-inf, 5:-inf, 6:-inf, 7:-inf, 8:-inf, 9:-inf, 10:-inf, 11:-inf, 12:-inf, 13:0, 14:0
+-   Normal mixer raw underrun counters: partial=0 empty=0
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.179 - 
+- Input thread 0xb400007d63d98280, name AudioIn_E, tid 1993, type 3 (RECORD):
+-   I/O handle: 14
+-   Standby: no
+-   Sample rate: 48000 Hz
+-   HAL frame count: 960
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 1920 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000010 (front)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 2 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc76b9c0 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.187 - 
+- Input thread 0xb400007d63d98800, name AudioIn_16, tid 1995, type 3 (RECORD):
+-   I/O handle: 22
+-   Standby: no
+-   Sample rate: 48000 Hz
+-   HAL frame count: 960
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 3840 bytes
+-   Channel count: 2
+-   Channel mask: 0x0000000c (left, right)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 4 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc726620 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.189 - 
+- Input thread 0xb400007d63d98a80, name AudioIn_1E, tid 1997, type 3 (RECORD):
+-   I/O handle: 30
+-   Standby: no
+-   Sample rate: 48000 Hz
+-   HAL frame count: 960
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 7680 bytes
+-   Channel count: 4
+-   Channel mask: 0x8000000f (index mask, bits:0xf)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 8 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc76b820 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.193 - 
+- Input thread 0xb400007d63d98680, name AudioIn_26, tid 2001, type 3 (RECORD):
+-   I/O handle: 38
+-   Standby: no
+-   Sample rate: 48000 Hz
+-   HAL frame count: 768
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 3072 bytes
+-   Channel count: 2
+-   Channel mask: 0x0000000c (left, right)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 4 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc7265c0 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:34:50.247 - 
+- Input thread 0xb400007d63d98a00, name AudioIn_2E, tid 2011, type 3 (RECORD):
+-   I/O handle: 46
+-   Standby: no
+-   Sample rate: 48000 Hz
+-   HAL frame count: 1024
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 4096 bytes
+-   Channel count: 2
+-   Channel mask: 0x0000000c (left, right)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 4 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc76bcc0 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:35:02.639 
+Historical Thread Log 09-06 21:35:02.644 - 
+- Output thread 0xb400007d63d99900, name AudioOut_4D, tid 2844, type 4 (OFFLOAD):
+-   I/O handle: 77
+-   Standby: yes
+-   Sample rate: 8000 Hz
+-   HAL frame count: 2048
+-   HAL format: 0x1000000 (AUDIO_FORMAT_MP3)
+-   HAL buffer size: 2048 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000001 (front-left)
+-   Processing format: 0x1000000 (AUDIO_FORMAT_MP3)
+-   Processing frame size: 1 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=1 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   Master volume: 1.000000
+-   Master mute: off
+-   Mixer channel Mask: 0x1 (front-left)
+-   Normal frame count: 2048
+-   Total writes: 0
+-   Delayed writes: 0
+-   Blocked in write: no
+-   Suspend count: 0
+-   Sink buffer : 0xb400007dfc7a3000
+-   Mixer buffer: 0xb400007dfc722000
+-   Effect buffer: 0xb400007d63ca2000
+-   Fast track availMask=0xfe
+-   Standby delay ns=1000000000
+-   AudioStreamOut: 0xb400007dfc6da840 flags 0x31 (AUDIO_OUTPUT_FLAG_DIRECT|AUDIO_OUTPUT_FLAG_COMPRESS_OFFLOAD|AUDIO_OUTPUT_FLAG_NON_BLOCKING)
+-   Frames written: 0
+-   Suspended frames: 0
+-   Hal stream dump:
+-       Standby: yes
+-       Frames written: 0
+-       Errors: 0
+-   Master balance: 0.000000  Left: 1.000000  Right: 1.000000
+-   Stream volumes in dB: 0:-14, 1:-27, 2:-20, 3:-38, 4:-14, 5:-27, 6:-inf, 7:-27, 8:-21, 9:-96, 10:-39, 11:-37, 12:0, 13:0, 14:0
+-   Normal mixer raw underrun counters: partial=0 empty=0
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:35:02.648 - 
+- Output thread 0xb400007d63dca9c0, name AudioOut_55, tid 2847, type 1 (DIRECT):
+-   I/O handle: 85
+-   Standby: yes
+-   Sample rate: 8000 Hz
+-   HAL frame count: 160
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 320 bytes
+-   Channel count: 1
+-   Channel mask: 0x00000001 (front-left)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 2 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=1 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   Master volume: 1.000000
+-   Master mute: off
+-   Mixer channel Mask: 0x1 (front-left)
+-   Normal frame count: 160
+-   Total writes: 0
+-   Delayed writes: 0
+-   Blocked in write: no
+-   Suspend count: 0
+-   Sink buffer : 0xb400007dfc741300
+-   Mixer buffer: 0xb400007dfc70a880
+-   Effect buffer: 0xb400007dfc70ab00
+-   Fast track availMask=0xfe
+-   Standby delay ns=40000000
+-   AudioStreamOut: 0xb400007dfc6dad90 flags 0x8001 (AUDIO_OUTPUT_FLAG_DIRECT|AUDIO_OUTPUT_FLAG_VOIP_RX)
+-   Frames written: 0
+-   Suspended frames: 0
+-   Hal stream dump:
+-       Standby: yes
+-       Frames written: 0
+-       Fifo frame underruns: none
+-       Errors: 0
+-       Signal power history: (none)
+-   Master balance: 0.000000  Left: 1.000000  Right: 1.000000
+-   Stream volumes in dB: 0:-14, 1:-27, 2:-20, 3:-38, 4:-14, 5:-27, 6:-inf, 7:-27, 8:-21, 9:-96, 10:-39, 11:-37, 12:0, 13:0, 14:0
+-   Normal mixer raw underrun counters: partial=0 empty=0
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:35:02.661 - 
+- Input thread 0xb400007d5d19aa00, name AudioIn_36, tid 2876, type 3 (RECORD):
+-   I/O handle: 54
+-   Standby: yes
+-   Sample rate: 48000 Hz
+-   HAL frame count: 960
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 3840 bytes
+-   Channel count: 2
+-   Channel mask: 0x0000000c (left, right)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 4 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc76b480 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
+Historical Thread Log 09-06 21:35:02.664 - 
+- Input thread 0xb400007d5d1ebc80, name AudioIn_3E, tid 2878, type 3 (RECORD):
+-   I/O handle: 62
+-   Standby: yes
+-   Sample rate: 48000 Hz
+-   HAL frame count: 960
+-   HAL format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   HAL buffer size: 7680 bytes
+-   Channel count: 4
+-   Channel mask: 0x8000000f (index mask, bits:0xf)
+-   Processing format: 0x1 (AUDIO_FORMAT_PCM_16_BIT)
+-   Processing frame size: 8 bytes
+-   Pending config events: none
+-   Output devices:  (Empty device types)
+-   Input device: 0 (AUDIO_DEVICE_NONE)
+-   Audio source: 0 (AUDIO_SOURCE_DEFAULT)
+-   Timestamp stats: n=0 disc=0 cold=0 nRdy=0 err=0 jitterMs(unavail) localSR(nan, nan) correctedJitterMs(unavail)
+-   Timestamp corrected: no
+-   AudioStreamIn: 0xb400007dfc7706e0 flags 0 (AUDIO_INPUT_FLAG_NONE)
+-   Frames read: 0
+-   No active record clients
+-   Hal stream dump:
+-       Standby: yes
+-       Frames read: 0
+-       Frames muted: 0
+-       Errors: 0
+-       Signal power history: (none)
+-   Fast capture thread: no
+-   Fast track available: no
+-   FastCapture not initialized
+-   0 Tracks
+-   0 Effect Chains
+-   Local log:
+
