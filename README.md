@@ -7,7 +7,7 @@
 ### Requirements
 
 - A rooted Android device running Android 10 to 12
-- Optional: A Dirac-compatible headphone. Recommended: [Xiaomi Mi in-Ear Headphones Basic](https://www.mi.com/in/item/3195200004) (<$5)
+- Optional: A Dirac-compatible headphone. Recommended: [Xiaomi Mi in-Ear Headphones Basic](https://www.mi.com/in/item/3195200004) (<$5, 4.9★)
 - Optional: For EDM lovers, try the playlist called "EARGASM: Get Your Dopamine". Available on Spotify and YouTube.
 
 ### How to install
